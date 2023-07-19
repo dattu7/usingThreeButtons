@@ -1,0 +1,19 @@
+.imgs{
+    height: 200px;
+    width: 200px;
+    margin-left: 400px;
+    margin-top: 200px;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+button{
+    border-radius: 20%;
+}
+button:hover{
+    background-color: aquamarine;
+}
+body{
+    background-color: bisque;
+}
